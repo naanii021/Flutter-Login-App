@@ -20,3 +20,19 @@ controladores de texto y rutas en Flutter.
 - Gestión de estados simples
 
 ## 📁 Estructura del proyecto
+lib/
+├── main.dart
+├── login_page.dart
+├── home_page.dart
+├── widgets/
+└── controllers/
+
+## 📌 Qué aprendí
+- Manejo de rutas en Flutter
+- Uso de TextEditingController
+- Validación de formularios
+- Gestión de estado básico
+- Diseño de UI responsiva con Material Design
+
+## 📄 Licencia
+Proyecto con fines educativos.
