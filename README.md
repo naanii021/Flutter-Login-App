@@ -1,16 +1,22 @@
-# inicio
+# Flutter Login App
 
-A new Flutter project.
+Aplicación de inicio de sesión creada con Flutter. 
+Incluye validación de datos, navegación entre pantallas y diseño adaptado a móviles.
+Proyecto realizado como práctica para mejorar el manejo de StatefulWidgets,
+controladores de texto y rutas en Flutter.
 
-## Getting Started
+## 🚀 Tecnologías utilizadas
+- Flutter
+- Dart
+- Material Design
+- StatefulWidget / stateless
+- Navigator 1.0 (push / pop) o GoRouter (según tu caso)
 
-This project is a starting point for a Flutter application.
+## 🧠 Funcionalidades
+- Pantalla de login
+- Validación de usuario / contraseña
+- Controladores con TextEditingController
+- Navegación a una pantalla principal tras el login
+- Gestión de estados simples
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📁 Estructura del proyecto
